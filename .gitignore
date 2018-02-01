@@ -1,0 +1,8 @@
+env/
+*.pyc
+__pycache__
+fbapp/tests/*.db
+app.db
+geckodriver.log
+.cache/
+
